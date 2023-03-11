@@ -1,0 +1,17 @@
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    margin-top: 50px;
+    margin-bottom: -70px;
+
+    
+}
+li{
+    text-decoration: none;
+    background-color:aqua;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+    border-radius: 8px;
+    cursor: pointer;
+}
